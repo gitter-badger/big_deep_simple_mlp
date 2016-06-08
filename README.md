@@ -1,5 +1,7 @@
 # big_deep_simple_mlp
 
+[![Join the chat at https://gitter.im/CalculatedContent/big_deep_simple_mlp](https://badges.gitter.im/CalculatedContent/big_deep_simple_mlp.svg)](https://gitter.im/CalculatedContent/big_deep_simple_mlp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 This is an attempt to use TensorFlow to reproduce the Big, Deep, Simple MLP 
 
